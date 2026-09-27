@@ -1,0 +1,8 @@
+2026-09-27 05:14:31,683 [ERROR] Failed to block 185.220.101.5: sudo: a password is required
+2026-09-27 05:14:31,684 [INFO] SOAR analysis completed for 185.220.101.5
+2026-09-27 05:18:05,843 [ERROR] Failed to block 185.220.101.5: sudo: a password is required
+2026-09-27 05:18:05,934 [INFO] SOAR analysis completed for 185.220.101.5
+2026-09-27 05:18:32,320 [ERROR] Failed to block 185.220.101.5: sudo: a password is required
+2026-09-27 05:18:32,336 [INFO] SOAR analysis completed for 185.220.101.5
+2026-09-27 05:24:17,642 [ERROR] Failed to block 185.220.101.5: sudo: a password is required
+2026-09-27 05:24:17,725 [INFO] SOAR analysis completed for 185.220.101.5

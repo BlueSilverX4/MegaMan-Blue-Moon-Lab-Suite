@@ -1,0 +1,27 @@
+{
+    "timestamp": "2026-09-27T09:24:16.805300+00:00",
+    "module": "NumberMan.EXE",
+    "target_ip": "185.220.101.5",
+    "status": "MALICIOUS - ACTION TAKEN",
+    "abuseipdb": {
+        "score": 100,
+        "total_reports": 325,
+        "isp": "Artikel10 e.V.",
+        "country": "DE"
+    },
+    "virustotal": {
+        "malicious": 11,
+        "suspicious": 3,
+        "harmless": 47,
+        "undetected": 30
+    },
+    "response": {
+        "abuse_threshold": 50,
+        "vt_malicious_threshold": 2,
+        "abuse_flag": true,
+        "vt_flag": true,
+        "containment_triggered": true
+    },
+    "action_taken": "IPTABLES_BLOCK",
+    "containment_result": "FAILED"
+}

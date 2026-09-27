@@ -1,0 +1,18 @@
+{
+    "timestamp": "2026-09-26T08:23:19.133850",
+    "target_ip": "203.0.113.195",
+    "status": "CLEAN - MONITORED",
+    "abuseipdb": {
+        "score": 0,
+        "total_reports": 7,
+        "isp": null,
+        "country": null
+    },
+    "virustotal": {
+        "malicious": 0,
+        "suspicious": 0,
+        "harmless": 53,
+        "undetected": 38
+    },
+    "action_taken": "NONE"
+}
